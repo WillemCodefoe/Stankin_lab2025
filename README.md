@@ -21,3 +21,10 @@ This project leverages a combination of technologies to achieve its goals:
   •  XAML: Used for building the user interface, specifically in a WPF application (Windows Presentation Foundation).
   •  CSS: For styling the XAML-based interface and ensuring a consistent visual experience.
   •  JavaScript (JS): For adding interactivity and dynamic behavior to the user interface (e.g., data updates, event handling).
+
+▌Screenshots (Optional)
+
+
+Caption: CNC Machine Selection Interface
+<img width="1325" height="768" alt="image" src="https://github.com/user-attachments/assets/09a49b92-ce87-49ba-9942-078cd0ab6e60" />
+
